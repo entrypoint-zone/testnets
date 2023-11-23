@@ -29,12 +29,14 @@ RPC:
 - https://entrypoint-testnet-rpc.itrocket.net/
 - https://entrypoint-testnet-rpc.stakerhouse.com/
 - https://rpc.entrypoint.banyumas-ngapak.online/
+- https://entrypoint-testnet.rpc.nodex.one
 
 REST:
 
 - https://testnet-rest.entrypoint.zone/swagger/
 - https://entrypoint-testnet-api.itrocket.net/
 - https://entrypoint-testnet-rest.stakerhouse.com/
+- https://entrypoint-testnet.api.nodex.one
 
 ## Explorers
 
@@ -49,6 +51,7 @@ REST:
 - https://explorer.moonbridge.team/entrypoint-test provided by [Moonbridge](https://services.moonbridge.team/moonbridge/).
 - https://testnet.explorer.tcnetwork.io/entrypoint/ provided by [TC NETWORK](https://tcnetwork.io/).
 - https://explorer.indonode.net/entrypoint-testnet/ provided by [Indonode](https://indonode.net/).
+- https://explorer.nodex.one/entrypoint/ provided by [nodex.one](https://docs.nodex.one)
 
 ## Listings
 
