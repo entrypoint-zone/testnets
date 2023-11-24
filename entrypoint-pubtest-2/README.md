@@ -51,7 +51,8 @@ REST:
 - https://explorer.moonbridge.team/entrypoint-test provided by [Moonbridge](https://services.moonbridge.team/moonbridge/).
 - https://testnet.explorer.tcnetwork.io/entrypoint/ provided by [TC NETWORK](https://tcnetwork.io/).
 - https://explorer.indonode.net/entrypoint-testnet/ provided by [Indonode](https://indonode.net/).
-- https://explorer.nodex.one/entrypoint/ provided by [nodex.one](https://docs.nodex.one)
+- https://cosmoscan.top/EntryPoint/staking provided by [2xstake.com](https://2xStake.com).
+- https://explorer.nodex.one/entrypoint/ provided by [nodex.one](https://docs.nodex.one).
 
 ## Listings
 
@@ -183,3 +184,5 @@ Special thanks to:
 - [Moonbridge](https://services.moonbridge.team/moonbridge/)
 - [TC NETWORK](https://tcnetwork.io/)
 - [Indonode](https://indonode.net/)
+- [2xstake.com](https://2xStake.com)
+- [nodex.one](https://docs.nodex.one)
