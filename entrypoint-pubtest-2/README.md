@@ -156,15 +156,15 @@ The public testnet is expected to require upgrades as new features are added or 
 ## More Docs And Tooling
 
 - [Testnet information and guides](https://docs.nodex.one/networks/testnet/entrypoint) provided by [nodex.one](https://twitter.com/NodeXEmperor).
-- [Statesync guide](https://ivans-organization-17.gitbook.io/cosmos-node/entrypoint) provided by [tarabukinivan](https://explorer.entrypoint.zone/entrypoint/staking/entrypointvaloper1hzw08lptr8fa07f35ff0azxt7qtsh90srqpfx7).
+- [State sync guide](https://ivans-organization-17.gitbook.io/cosmos-node/entrypoint) provided by [tarabukinivan](https://explorer.entrypoint.zone/entrypoint/staking/entrypointvaloper1hzw08lptr8fa07f35ff0azxt7qtsh90srqpfx7).
 - [Guides in Russian](https://teletype.in/@lesnik13utsa/ngyL41zQdXu) provided by [lesnik | UTSA](https://utsa.gitbook.io/services).
 - [Guides, snapshot services](https://itrocket.net/services/testnet/entrypoint) provided by [ITRocket](https://itrocket.net/).
 - [Telegram governance bot](https://t.me/itrocket_testnet_proposal_bot) provided by [ITRocket](https://itrocket.net).
 - [RPC scanner](https://itrocket.net/services/testnet/entrypoint/public-rpc/) provided by [ITRocket](https://itrocket.net).
 - [Testnet information and guides](https://stakerhouse.com/testnets/entrypoint/) provided by [StakerHouse](https://stakerhouse.com/).
 - [Guides in Turkish](https://github.com/molla202/Entrypoint-pubtest-2/blob/main/README.md) provided by [CoreNode](CoreNode.info).
-- [Guides, statesync](https://services.moonbridge.team/moonbridge/testnet/entrypoint) provided by [Moonbridge](https://services.moonbridge.team/moonbridge/).
-- [Guides, statesync, snapshots](https://docs.indonode.net/testnet/entrypoint) provided by [Indonode](https://indonode.net/).
+- [Guides, state sync](https://services.moonbridge.team/moonbridge/testnet/entrypoint) provided by [Moonbridge](https://services.moonbridge.team/moonbridge/).
+- [Guides, state sync, snapshots](https://docs.indonode.net/testnet/entrypoint) provided by [Indonode](https://indonode.net/).
 
 ## Contributors
 
