@@ -169,6 +169,7 @@ The public testnet is expected to require upgrades as new features are added or 
 - [Guides in Turkish](https://github.com/molla202/Entrypoint-pubtest-2/blob/main/README.md) provided by [CoreNode](CoreNode.info).
 - [Guides, state sync](https://services.moonbridge.team/moonbridge/testnet/entrypoint) provided by [Moonbridge](https://services.moonbridge.team/moonbridge/).
 - [Guides, state sync, snapshots](https://docs.indonode.net/testnet/entrypoint) provided by [Indonode](https://indonode.net/).
+- [Testnet information and guides](nodeist.net/Entrypoint/) provided by [nodeist](https://nodeist.net/).
 
 ## Contributors
 
@@ -191,3 +192,4 @@ Special thanks to:
 - [Indonode](https://indonode.net/)
 - [2xstake.com](https://2xStake.com)
 - [nodex.one](https://docs.nodex.one)
+- [nodeist](https://nodeist.net/)
