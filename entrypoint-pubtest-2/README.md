@@ -69,6 +69,8 @@ REST:
 
 ### Using Cosmovisor
 
+> Note: if you are syncing from scratch (height 0), you will need to start from the [v1.1.1 binary](https://github.com/entrypoint-zone/testnets/releases/tag/v1.1.1) instead. After the node starts syncing, you will need to follow the [upgrades log](UPGRADES.md) to download the right binaries according to the upgrades that were performed historically.
+
 Download binary and genesis (Note: genesis only needed if syncing from scratch):
 
 - Binary from: https://github.com/entrypoint-zone/testnets/releases/tag/v1.2.0.
