@@ -109,10 +109,9 @@ Configure node:
 - Configure `persistent_peers` in `nano ~/.entrypoint/config/config.toml`.
   - Recommended value: `persistent_peers = "81bf2ade773a30eccdfee58a041974461f1838d8@185.107.68.148:26656,d57c7572d58cb3043770f2c0ba412b35035233ad@80.64.208.169:26656"`.
 - Move the downloaded genesis file to `~/.entrypoint/config/genesis.json` if you're syncing from scratch.
-- Configure State Sync in `$DAEMON_HOME/config/config.toml` by opening [the explorer](https://explorer.entrypoint.zone/entrypoint), navigating to the _State Sync_ section, and following the guide there.
+- Configure State Sync in `$DAEMON_HOME/config/config.toml` by following [the guide in the explorer](https://testnet.ping.pub/entrypoint/statesync).
   - You will need two RPC servers and also the `trust_height` and `trust_hash` values.
-  - If the height and hash are blank, make sure that you followed the navigation step above. Do not open the State Sync page directly.
-  - Alternatively, these can be obtained by following state sync guides in the [More Docs And Tooling](#more-docs-and-tooling) section.
+  - Alternative RPC servers can be obtained from the [Endpoints](#endpoints) or [More Docs And Tooling](#more-docs-and-tooling) sections.
 
 At this point `cosmovisor run` will be the equivalent of running `entrypointd`. In fact, to run the node you can use `cosmovisor run start`. **It is highly recommended to run the EntryPoint as a service**, so that it can run in the background. You will need to replicate the environment variables defined above.
 
