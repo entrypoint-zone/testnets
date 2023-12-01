@@ -42,18 +42,18 @@ REST:
 
 - https://explorer.entrypoint.zone/entrypoint provided by [Simply Staking](https://simplystaking.com/)
 - https://testnet.ping.pub/entrypoint provided by [Ping.pub](https://ping.pub/)
-- https://explorer.hexnodes.co/entrypoint/staking provided by [Hexnodes](https://hexnodes.co/)
+- https://explorer.hexnodes.co/entrypoint provided by [Hexnodes](https://hexnodes.co/)
 - https://test.anode.team/entrypoint provided by [ANODE.TEAM](https://anode.team/)
 - https://exp.utsa.tech/entrypoint-test provided by [lesnik | UTSA](https://utsa.gitbook.io/services)
-- https://explorer.stavr.tech/Entrypoint-Testnet/staking provided by [STAVR](https://github.com/obajay)
-- https://testnet.itrocket.net/entrypoint/staking provided by [ITRocket](https://itrocket.net)
-- https://cosmotracker.com/entrypoint/staking provided by [StakerHouse](https://stakerhouse.com/).
+- https://explorer.stavr.tech/Entrypoint-Testnet provided by [STAVR](https://github.com/obajay)
+- https://testnet.itrocket.net/entrypoint provided by [ITRocket](https://itrocket.net)
+- https://cosmotracker.com/entrypoint provided by [StakerHouse](https://stakerhouse.com/).
 - https://explorer.moonbridge.team/entrypoint-test provided by [Moonbridge](https://services.moonbridge.team/moonbridge/).
-- https://testnet.explorer.tcnetwork.io/entrypoint/ provided by [TC NETWORK](https://tcnetwork.io/).
-- https://explorer.indonode.net/entrypoint-testnet/ provided by [Indonode](https://indonode.net/).
-- https://cosmoscan.top/EntryPoint/staking provided by [2xstake.com](https://2xStake.com).
-- https://explorer.nodex.one/entrypoint/ provided by [nodex.one](https://docs.nodex.one).
-- https://explorer.moonbridge.team/entrypoint-test/ provided by [Moonbridge](https://moonbridge.team/).
+- https://testnet.explorer.tcnetwork.io/entrypoint provided by [TC NETWORK](https://tcnetwork.io/).
+- https://explorer.indonode.net/entrypoint-testnet provided by [Indonode](https://indonode.net/).
+- https://cosmoscan.top/EntryPoint provided by [2xstake.com](https://2xStake.com).
+- https://explorer.nodex.one/entrypoint provided by [nodex.one](https://docs.nodex.one).
+- https://explorer.moonbridge.team/entrypoint-test provided by [Moonbridge](https://moonbridge.team/).
 
 ## Listings
 
