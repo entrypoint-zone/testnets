@@ -40,13 +40,13 @@ REST:
 
 ## Explorers
 
-- https://explorer.entrypoint.zone/entrypoint provided by [Simply Staking](https://simplystaking.com/)
-- https://testnet.ping.pub/entrypoint provided by [Ping.pub](https://ping.pub/)
-- https://explorer.hexnodes.co/entrypoint provided by [Hexnodes](https://hexnodes.co/)
-- https://test.anode.team/entrypoint provided by [ANODE.TEAM](https://anode.team/)
-- https://exp.utsa.tech/entrypoint-test provided by [lesnik | UTSA](https://utsa.gitbook.io/services)
-- https://explorer.stavr.tech/Entrypoint-Testnet provided by [STAVR](https://github.com/obajay)
-- https://testnet.itrocket.net/entrypoint provided by [ITRocket](https://itrocket.net)
+- https://explorer.entrypoint.zone/entrypoint provided by [Simply Staking](https://simplystaking.com/).
+- https://testnet.ping.pub/entrypoint provided by [Ping.pub](https://ping.pub/).
+- https://explorer.hexnodes.co/entrypoint provided by [Hexnodes](https://hexnodes.co/).
+- https://test.anode.team/entrypoint provided by [ANODE.TEAM](https://anode.team/).
+- https://exp.utsa.tech/entrypoint-test provided by [lesnik | UTSA](https://utsa.gitbook.io/services).
+- https://explorer.stavr.tech/Entrypoint-Testnet provided by [STAVR](https://github.com/obajay).
+- https://testnet.itrocket.net/entrypoint provided by [ITRocket](https://itrocket.net).
 - https://cosmotracker.com/entrypoint provided by [StakerHouse](https://stakerhouse.com/).
 - https://explorer.moonbridge.team/entrypoint-test provided by [Moonbridge](https://services.moonbridge.team/moonbridge/).
 - https://testnet.explorer.tcnetwork.io/entrypoint provided by [TC NETWORK](https://tcnetwork.io/).
