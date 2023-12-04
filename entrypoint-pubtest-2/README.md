@@ -171,6 +171,7 @@ The public testnet is expected to require upgrades as new features are added or 
 - [Guides, state sync, snapshots](https://docs.indonode.net/testnet/entrypoint) provided by [Indonode](https://indonode.net/).
 - [Testnet information and guides](nodeist.net/Entrypoint/) provided by [nodeist](https://nodeist.net/).
 - [Guides](https://github.com/NodeValidatorVN/GuideNode/tree/main/Entrypoint) provided by [Node&Validator](https://validatorvn.com).
+- [Guides](https://docs.nodesync.top/cosmos-testnet/entrypoint) provided by [NodeSync.Top](https://nodesync.top/).
 
 ## Contributors
 
@@ -196,3 +197,4 @@ Special thanks to:
 - [nodeist](https://nodeist.net/)
 - [Moonbridge](https://moonbridge.team/)
 - [Node&Validator](https://validatorvn.com)
+- [NodeSync.Top](https://nodesync.top/)
