@@ -170,6 +170,7 @@ The public testnet is expected to require upgrades as new features are added or 
 - [Guides, state sync](https://services.moonbridge.team/moonbridge/testnet/entrypoint) provided by [Moonbridge](https://services.moonbridge.team/moonbridge/).
 - [Guides, state sync, snapshots](https://docs.indonode.net/testnet/entrypoint) provided by [Indonode](https://indonode.net/).
 - [Testnet information and guides](nodeist.net/Entrypoint/) provided by [nodeist](https://nodeist.net/).
+- [Guides](https://github.com/NodeValidatorVN/GuideNode/tree/main/Entrypoint) provided by [Node&Validator](https://validatorvn.com).
 
 ## Contributors
 
@@ -194,3 +195,4 @@ Special thanks to:
 - [nodex.one](https://docs.nodex.one)
 - [nodeist](https://nodeist.net/)
 - [Moonbridge](https://moonbridge.team/)
+- [Node&Validator](https://validatorvn.com)
