@@ -25,18 +25,20 @@ Visit the [Scheduled Upgrades](./UPGRADES.md) page for details on previous, curr
 
 RPC:
 
-- https://testnet-rpc.entrypoint.zone/
-- https://entrypoint-testnet-rpc.itrocket.net/
-- https://entrypoint-testnet-rpc.stakerhouse.com/
-- https://rpc.entrypoint.banyumas-ngapak.online/
+- https://testnet-rpc.entrypoint.zone
+- https://entrypoint-testnet-rpc.itrocket.net
+- https://entrypoint-testnet-rpc.stakerhouse.com
+- https://rpc.entrypoint.banyumas-ngapak.online
 - https://entrypoint-testnet.rpc.nodex.one
+- https://entrypoint-rpc.validatorvn.com
 
 REST:
 
-- https://testnet-rest.entrypoint.zone/swagger/
-- https://entrypoint-testnet-api.itrocket.net/
-- https://entrypoint-testnet-rest.stakerhouse.com/
+- https://testnet-rest.entrypoint.zone
+- https://entrypoint-testnet-api.itrocket.net
+- https://entrypoint-testnet-rest.stakerhouse.com
 - https://entrypoint-testnet.api.nodex.one
+- https://entrypoint-api.validatorvn.com
 
 ## Explorers
 
