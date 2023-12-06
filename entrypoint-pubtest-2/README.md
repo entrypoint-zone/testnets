@@ -15,7 +15,7 @@
 
 - **Chain ID**: `entrypoint-pubtest-2`
 - **Launch date**: 2023-10-25
-- **Current version**: `v1.2.0`
+- **Current version**: `v1.3.0`
 - **Launch version**: `v1.1.1`
 - **Genesis file**: included in this folder.
 
@@ -76,7 +76,7 @@ REST:
 
 Download binary and genesis (Note: genesis only needed if syncing from scratch):
 
-- Binary from: https://github.com/entrypoint-zone/testnets/releases/tag/v1.2.0.
+- Binary from: https://github.com/entrypoint-zone/testnets/releases/tag/v1.3.0.
 - Genesis from: https://github.com/entrypoint-zone/testnets/blob/main/entrypoint-pubtest-2/genesis.json.
 
 For convenience, copy the downloaded binary to `$GOPATH/bin/` with the name `entrypointd` for easy execution:
