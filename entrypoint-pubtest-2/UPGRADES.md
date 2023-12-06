@@ -14,7 +14,7 @@
 
 ### Upgrade Details
 
-- **Upgrade height**: **`678900`**
+- **Upgrade height**: **`680000`**
 - Estimated upgrade time: `2023-12-07 ~14:00 UTC`
 
 ### Upgrade Instructions (with Cosmovisor)
