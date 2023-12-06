@@ -1,21 +1,21 @@
 # Scheduled Upgrades
 
-## v1.2.0
+## v1.3.0
 
 ### Schedule
 
 | Date             | Testnet plan                                     |
 |------------------|--------------------------------------------------|
-| November 16 2023 | EntryPoint v1.2.0 is live on the testnet         |
-| November 15 2023 | Submit and pass v1.2.0 software upgrade proposal |
+| December 7 2023  | EntryPoint v1.3.0 is live on the testnet         |
+| December 6 2023  | Submit and pass v1.3.0 software upgrade proposal |
 
-- **Version before upgrade**: `v1.1.1`
-- **Version after upgrade**: `v1.2.0` (binaries from [here](https://github.com/entrypoint-zone/testnets/releases/tag/v1.2.0))
+- **Version before upgrade**: `v1.2.0`
+- **Version after upgrade**: `v1.3.0` (binaries from [here](https://github.com/entrypoint-zone/testnets/releases/tag/v1.3.0))
 
 ### Upgrade Details
 
-- **Upgrade height**: **`351000`**
-- Estimated upgrade time: `2023-11-16 ~14:00 UTC`
+- **Upgrade height**: **`678842`**
+- Estimated upgrade time: `2023-12-07 ~14:00 UTC`
 
 ### Upgrade Instructions (with Cosmovisor)
 
@@ -25,16 +25,16 @@ If you will be running Cosmovisor with `DAEMON_ALLOW_DOWNLOAD_BINARIES=true` at 
 
 Otherwise, if you opt to run Cosmovisor with `DAEMON_ALLOW_DOWNLOAD_BINARIES=false`, you will need to run through the following steps:
 
-- Download new binary from https://github.com/entrypoint-zone/testnets/releases/tag/v1.2.0 or obtain it from a reputable source.
+- Download new binary from https://github.com/entrypoint-zone/testnets/releases/tag/v1.3.0 or obtain it from a reputable source.
 - Apply environment variables: `source ~/.profile` (refer to [README](../README.md#from-scratch-using-cosmovisor) if you do not have this).
-- Register the upgrade: `cosmovisor add-upgrade v1.1.1-to-v1.2.0 <path-to-downloaded-entrypointd-binary>`.
+- Register the upgrade: `cosmovisor add-upgrade v1.2.0-to-v1.3.0 <path-to-downloaded-entrypointd-binary>`.
 - From here on, the upgrade process is expected to take place automatically.
 
 ### Upgrade Instructions (without Cosmovisor)
 
 The recommended steps to upgrade to the new version without Cosmovisor are as follows:
 
-- Download new binary from https://github.com/entrypoint-zone/testnets/releases/tag/v1.2.0 or obtain it from a reputable source.
+- Download new binary from https://github.com/entrypoint-zone/testnets/releases/tag/v1.3.0 or obtain it from a reputable source.
 - At the upgrade height, once your node has stopped automatically, back up the `.entrypoint` directory, especially the `.entrypoint/data/priv_validator_state.json` file.
 - Swap the old binary with the downloaded binary, and restart your node.
 - From here on, the upgrade process is expected to take place automatically.
