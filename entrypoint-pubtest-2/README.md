@@ -15,7 +15,7 @@
 
 - **Chain ID**: `entrypoint-pubtest-2`
 - **Launch date**: 2023-10-25
-- **Current version**: `v1.2.0`
+- **Current version**: `v1.3.0`
 - **Launch version**: `v1.1.1`
 - **Genesis file**: included in this folder.
 
