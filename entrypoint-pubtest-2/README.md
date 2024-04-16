@@ -103,7 +103,7 @@ Install and configure Cosmovisor:
     # Check https://docs.cosmos.network/main/tooling/cosmovisor for more configuration options.
     ```
 - Apply environment variables: `source ~/.profile`.
-- Initialise Cosmovisor directories: `cosmovisor init <path-to-entrypointd-binary>`.
+- Initialise Cosmovisor directories: `cosmovisor init <path-to-entrypointd-binary>` (hint: `whereis entrypointd` for the path).
 
 Configure node:
 
